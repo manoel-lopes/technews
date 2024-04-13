@@ -1,3 +1,3 @@
 # TechNews
 
-Inspired by (https://www.tabnews.com.br/).
+Inspired by TabNews(https://www.tabnews.com.br/).
