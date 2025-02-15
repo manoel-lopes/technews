@@ -1,0 +1,24 @@
+{
+  "name": "technews",
+  "version": "1.0.0",
+  "description": "A platform focused on the technology community. The main objective of TechNews is to provide content of concrete value such as news, articles, tutorials, guidance, curiosities, well-formulated questions or any other type of content for those who work with Programming and Technology.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoel-lopes/technews.git"
+  },
+  "author": "Manoel Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manoel-lopes/technews/issues"
+  },
+  "homepage": "https://github.com/manoel-lopes/technews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
